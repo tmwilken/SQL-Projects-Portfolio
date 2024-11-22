@@ -5,7 +5,7 @@ This repository contains a collection of SQL projects showcasing my expertise in
 
 | **Project** | **Description** | **Skills Demonstrated** |
 | ----------- | --------------- | ----------------------- |
-| [Digital Music Store Database](https://github.com/tmwilken/SQL-Projects-Portfolio) | Querying a music store database to provide insights to support business operations | SQL statements, SQL aggregations, SQL joins, SQL queries |
+| [Digital Music Store](https://github.com/tmwilken/SQL-Projects-Portfolio/tree/e380c1ce5acc500228b80b1f4d8577e08b8b6d44/SQL-Digital-Music-Store-Project) | Querying a music store database to provide insights to support business operations | SQL statements, SQL aggregations, SQL joins, SQL queries |
 
 ## **Features of This Repository**
 - **Diverse Use Cases**: Projects cover a range of industries, including finance, e-commerce, and HR.
