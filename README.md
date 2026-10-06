@@ -1,34 +1,51 @@
-# SQL-Projects-Portfolio
+# SQL Portfolio: Data Analysis & Business Intelligence
 
-## **Overview**
-This repository contains a collection of SQL projects showcasing my expertise in database management, query optimization, and data analysis. Each project demonstrates how SQL can be used to extract insights, solve business problems, and support data-driven decision-making.
+## Overview
+A collection of SQL projects demonstrating end-to-end data analysis, query optimization, and relational database management. Each project focuses on extracting actionable insights to solve real-world operational, content, and revenue problems.
 
-| **Project** | **Description** | **Skills Demonstrated** |
-| ----------- | --------------- | ----------------------- |
-| [Digital Music Store](https://github.com/tmwilken/SQL-Projects-Portfolio/tree/e380c1ce5acc500228b80b1f4d8577e08b8b6d44/SQL-Digital-Music-Store-Project) | Querying a music store database to provide insights to support business operations | SQL statements, SQL aggregations, SQL joins, SQL queries |
-| [YouTube Trend Analysis](https://github.com/tmwilken/SQL-Projects-Portfolio/blob/main/SQL_YouTube_Trending_Analysis.ipynb)| Analyzed U.S. YouTube trending data to rank content by engagement, timing, and category patterns. | Data Extraction, Data Ranking, Distribution Analysis | 
+---
 
-## **Features of This Repository**
-- **Diverse Use Cases**: Projects cover a range of industries, including finance, e-commerce, and HR.
-- **Well-Documented Code**: Each project folder includes the SQL scripts and detailed explanations of the queries.
-- **Best Practices**: Queries follow best practices for efficiency and readability.
+## Featured Projects
+| Project | Business Problem | Key Techniques & Tools | Dialect | Folder |
+| :--- | :--- | :--- | :--- | :--- |
+| **Startup Investment & Risk Analysis** | Evaluated capital allocation and closure rates across 27,000+ venture-backed companies, analyzing high-loss sectors (cleantech) to assess risk vs. ROI profile[cite: 9, 12, 13, 14]. | Multi-Condition Filtering (`AND`/`OR`), `NULL` Value Handling (`IS NOT NULL`), Pattern Matching (`ILIKE`), Sector Failure Rate Analysis[cite: 10, 15, 16] | SQL / PostgreSQL | [View Project](./Startup-Investments-Analysis) |
+| **YouTube Trending Engagement Analysis** | Analyzed 6,300+ trending videos to evaluate audience engagement patterns across views, likes, dislikes, and comments, identifying distribution drop-offs across top performance tiers. | Rank Sampling (`LIMIT`, `OFFSET`), Multi-Metric Sorting (`ORDER BY`), Engagement Distribution & Ratio Analysis | SQL / PostgreSQL | [View Project](./YouTube-Trend-Analysis) |
+| **Digital Music Store Analysis** | Analyzed invoice line items, customer lifetime behavior, and global genre demand to recommend inventory shifts and target marketing regions. | Multi-Table `JOIN`s (5+ tables), Aggregate Filtering (`HAVING`), Subqueries, Summary Tables | PostgreSQL / MySQL | [View Project](./Digital-Music-Store) |
 
-## **Getting Started**
-1. Clone this repository to your local machine: git clone https://github.com/tmwilken/SQL-Projects-Portfolio.git
-2. Navigate to the project folder you want to explore.
-3. Use your preferred SQL client (e.g., pgAdmin, MySQL Workbench) to execute the scripts.
+---
 
-## **Future Projects**
-This portfolio is continuously evolving.
+## Project Roadmap & Pipeline
+| Status | Project | Industry | Core Analytical Focus |
+| :--- | :--- | :--- | :--- |
+| In Review |  Sustainability Impact Analysis | Technology | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions |
+| Planned | Reader Engagement and Retention Analysis | Digital Media | Identifying what behaviors early in a reader's actions predict whether they become loyal, long-term readers (and ultimately paying subscribers). |
 
-Future projects may include:
-- Bookstore Analysis.
-- E-commerce Sales Analysis.
-- Customer Segmentation.
+---
+
+## Repository Structure & Standards
+Each project directory includes:
+- **`README.md`**: Business context, schema documentation, key questions, and summary of findings.
+- **`schema.sql` / Data Source**: DDL scripts or clear source links to reproduce the database locally.
+- **`queries.sql`**: Fully annotated, production-style SQL formatted for readability with descriptive aliasing.
+
+## Getting Started
+To run these queries locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/tmwilken/SQL-Projects-Portfolio.git](https://github.com/tmwilken/SQL-Projects-Portfolio.git)
+   cd SQL-Projects-Portfolio
+2. **Database Setup:**
+   - Navigate to the specific project folder (e.g., cd YouTube-Trend-Analysis).
+   - Run the provided schema script or load the dataset into your SQL engine (PostgreSQL, MySQL, SQLite).
+3. **Execute Queries:**
+   Run the numbered SQL scripts sequentially using your client of choice (pgAdmin, DBeaver, VS Code SQLTools, MySQL Workbench).
+
+---
 
 ## **Contact**
-Created by Tina Marie Wilken
-
+Tina Marie Wilken
 - [LinkedIn](https://www.linkedin.com/in/tinamariewilken/)
 - [Portfolio](https://github.com/tmwilken)
+- [Email](mailto:tinamariewilken@gmail.com)
 
