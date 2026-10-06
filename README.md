@@ -10,7 +10,7 @@ A collection of SQL projects demonstrating end-to-end data analysis, query optim
 | :--- | :--- | :--- | :--- | :--- |
 | **Startup Investment & Risk Analysis** | Evaluated capital allocation and closure rates across 27,000+ venture-backed companies, analyzing high-loss sectors (cleantech) to assess risk vs. ROI profile[cite: 9, 12, 13, 14]. | Multi-Condition Filtering (`AND`/`OR`), `NULL` Value Handling (`IS NOT NULL`), Pattern Matching (`ILIKE`), Sector Failure Rate Analysis[cite: 10, 15, 16] | SQL / PostgreSQL | [View Project](./Startup-Investments-Analysis) |
 | **YouTube Trending Engagement Analysis** | Analyzed 6,300+ trending videos to evaluate audience engagement patterns across views, likes, dislikes, and comments, identifying distribution drop-offs across top performance tiers. | Rank Sampling (`LIMIT`, `OFFSET`), Multi-Metric Sorting (`ORDER BY`), Engagement Distribution & Ratio Analysis | SQL / PostgreSQL | [View Project](./YouTube-Trend-Analysis) |
-| **Digital Music Store Analysis** | Analyzed invoice line items, customer lifetime behavior, and global genre demand to recommend inventory shifts and target marketing regions. | Multi-Table `JOIN`s (5+ tables), Aggregate Filtering (`HAVING`), Subqueries, Summary Tables | PostgreSQL / MySQL | [View Project](./Digital-Music-Store) |
+| **Digital Music Store Analysis** | Analyzed invoice line items, customer lifetime behavior, and global genre demand to recommend inventory shifts and target marketing regions. | Multi-Table `JOIN`s (5+ tables), Aggregate Filtering (`HAVING`), Subqueries, Summary Tables | PostgreSQL / MySQL | [View Project](./SQL-Digital-Music-Store-Project) |
 
 ---
 
