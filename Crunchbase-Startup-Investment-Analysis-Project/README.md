@@ -12,16 +12,6 @@ As a strategic advisor to a global venture capital firm, I used SQL to analyze t
 * **Cleantech failure rate:** Of 827 funded cleantech companies, 61 have closed, which is 7.38%. That is slightly below the 7.9% closed rate for the full table. Cleantech failures are therefore concentrated among very large raises, not more frequent overall.
 * **Name-based exploration:** 275 cleantech companies have "solar", "power", or "energy" in their names (case-insensitive match).
 
-## Visualizations
-
-**Top-funded companies (sorted by total funding)**
-
-![Top funded companies](./assets/task1a_query_results.png)
-
-**Top 12 funded companies with a 'closed' status**
-
-![Top closed companies](./assets/task2a_query_results.png)
-
 ## Analytical Approach & Tools
 
 * **Environment:** SQLPad (PostgreSQL-compatible syntax), documented in a Jupyter Notebook
