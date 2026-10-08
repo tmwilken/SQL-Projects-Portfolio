@@ -24,8 +24,8 @@ A collection of SQL projects demonstrating end-to-end data analysis, query optim
 | Completed | FastKitchen Customer Analysis | Food & Beverage | Consolidated registered and guest customer data using SQL outer joins to develop a comprehensive view of FastKitchen’s customer base and inform customer insights. |
 | Completed | NBA Performance Analysis | Professional Sports | Examined NBA team performance, scoring trends, and evolving playing styles across 17 seasons to identify drivers of team success and inform coaching strategies. |
 | Completed | [London Transit Analysis](./London-Transit-Analysis) | Transportation (Public Sector) | Analyzed London public transit ridership patterns, peak travel times, and line usage to inform service scheduling, resource allocation, and infrastructure planning. |
-| Completed | [Startup Investment Analysis](./Crunchbase-Startup-Investment-Analysis-Project) | Assessed capital allocation and closure rates in venture-backed companies, analyzed high-loss sectors to assess risk vs. ROI profile. |
-| Completed | [YouTube Trending Analysis](./youtube-trending-analysis) | Evaluated audience engagement patterns and identifying distribution drop-offs across top performance. |
+| Completed | [Startup Investment Analysis](./Crunchbase-Startup-Investment-Analysis-Project) | B2B DaaS | Assessed capital allocation and closure rates in venture-backed companies, analyzed high-loss sectors to assess risk vs. ROI profile. |
+| Completed | [YouTube Trending Analysis](./youtube-trending-analysis) | Digital Media & Entertainment | Evaluated audience engagement patterns and identifying distribution drop-offs across top performance. |
 | Completed | [Digital Music Store Analysis](./SQL-Digital-Music-Store-Project) | E-Commerce | Analyzed sales transactions, customer purchasing behavior, and global music genre demand to identify opportunities for inventory optimization and geographically targeted marketing strategies. |
 
 ---
