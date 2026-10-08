@@ -8,8 +8,8 @@ A collection of SQL projects demonstrating end-to-end data analysis, query optim
 ## Featured Projects
 | Project | Business Problem | Key Techniques & Tools | Industry | Folder |
 | :--- | :--- | :--- | :--- | :--- |
-| **Reader Engagement & Retention Analyis** | Identifying what behaviors early in a reader's actions predict whether they become loyal, long-term readers (and ultimately paying subscribers). | CTEs, window functions like LAG and ROW_NUMBER, date functions, and conditional aggregations | Digital Media | Planned |
-| **Sustainability Impact Analysis** | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions | INNER JOIN, CTEs, CASE WHEN, aggregate functions, GROUP BY, calculated fields, NULL validation, data segmentation | Technology | In Review |
+| **Reader Engagement & Retention Analyis** | Identifying what behaviors early in a reader's actions predict whether they become loyal, long-term readers (and ultimately paying subscribers). | CTEs, window functions like `LAG` and `ROW_NUMBER`, date functions, and conditional aggregations | Digital Media | Planned |
+| **Sustainability Impact Analysis** | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions | `INNER JOIN`, CTEs, `CASE WHEN`, aggregate functions, `GROUP BY`, calculated fields, `NULL validation`, data segmentation | Technology | In Review |
 | **Digital Music Store Analysis** | Analyzed invoice line items, customer lifetime behavior, and global genre demand to recommend inventory shifts and target marketing regions. | Multi-Table `JOIN`s (5+ tables), Aggregate Filtering (`HAVING`), Subqueries, Summary Tables | E-Commerce | [View Project](./SQL-Digital-Music-Store-Project) |
 
 ---
