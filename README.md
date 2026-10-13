@@ -9,7 +9,7 @@ A collection of SQL projects demonstrating end-to-end data analysis, query optim
 | Project | Business Problem | Key Techniques & Tools | Industry | Folder |
 | :--- | :--- | :--- | :--- | :--- |
 | **Reader Engagement & Retention Analyis** | Identifying what behaviors early in a reader's actions predict whether they become loyal, long-term readers (and ultimately paying subscribers). | CTEs, window functions like `LAG` and `ROW_NUMBER`, date functions, and conditional aggregations | Digital Media | Planned |
-| **Sustainability Impact Analysis** | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions | `INNER JOIN`, CTEs, `CASE WHEN`, aggregate functions, `GROUP BY`, calculated fields, `NULL validation`, data segmentation | Technology | In Review |
+| **Sustainability Impact Analysis** | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions | `INNER JOIN`, CTEs, `CASE WHEN`, aggregate functions, `GROUP BY`, calculated fields, `NULL validation`, data segmentation | Technology | [View Project](./Intel-Sustainability-Impact-Analysis) |
 | **Digital Music Store Analysis** | Analyzed invoice line items, customer lifetime behavior, and global genre demand to recommend inventory shifts and target marketing regions. | Multi-Table `JOIN`s (5+ tables), Aggregate Filtering (`HAVING`), Subqueries, Summary Tables | E-Commerce | [View Project](./SQL-Digital-Music-Store-Project) |
 
 ---
@@ -18,7 +18,7 @@ A collection of SQL projects demonstrating end-to-end data analysis, query optim
 | Status | Project | Industry | Core Analytical Focus |
 | :--- | :--- | :--- | :--- |
 | Planned | Reader Engagement and Retention Analysis | Digital Media | Identifying what behaviors early in a reader's actions predict whether they become loyal, long-term readers (and ultimately paying subscribers). |
-| In Review |  Sustainability Impact Analysis | Technology | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions |
+| Completed |  Sustainability Impact Analysis | Technology | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions |
 | Completed | Construction Job Demand | Construction | Investigated the relationship between severe weather events and construction job demand using SQL subqueries to identify patterns that could inform demand forecasting and resource allocation. |
 | Completed | GameJet Microtransactions | Mobile Gaming | Identify opportunities for improving monetization strategies, free-to-paid conversion, and revenue growth. |
 | Completed | FastKitchen Customer Analysis | Food & Beverage | Consolidated registered and guest customer data using SQL outer joins to develop a comprehensive view of FastKitchen’s customer base and inform customer insights. |
