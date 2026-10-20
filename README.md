@@ -18,7 +18,7 @@ A collection of SQL projects demonstrating end-to-end data analysis, query optim
 | Status | Project | Industry | Core Analytical Focus |
 | :--- | :--- | :--- | :--- |
 | Planned | Reader Engagement and Retention Analysis | Digital Media | Identifying what behaviors early in a reader's actions predict whether they become loyal, long-term readers (and ultimately paying subscribers). |
-| Completed |  [Sustainability Impact Analysis(./Intel-Sustainability-Impact-Analysis-Project) | Technology | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions |
+| Completed |  [Sustainability Impact Analysis](./Intel-Sustainability-Impact-Analysis) | Technology | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions |
 | Completed | [Digital Music Store Analysis](./SQL-Digital-Music-Store-Project) | E-Commerce | Analyzed sales transactions, customer purchasing behavior, and global music genre demand to identify opportunities for inventory optimization and geographically targeted marketing strategies. |
 
 ---
