@@ -18,14 +18,7 @@ A collection of SQL projects demonstrating end-to-end data analysis, query optim
 | Status | Project | Industry | Core Analytical Focus |
 | :--- | :--- | :--- | :--- |
 | Planned | Reader Engagement and Retention Analysis | Digital Media | Identifying what behaviors early in a reader's actions predict whether they become loyal, long-term readers (and ultimately paying subscribers). |
-| Completed |  Sustainability Impact Analysis | Technology | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions |
-| Completed | Construction Job Demand | Construction | Investigated the relationship between severe weather events and construction job demand using SQL subqueries to identify patterns that could inform demand forecasting and resource allocation. |
-| Completed | GameJet Microtransactions | Mobile Gaming | Identify opportunities for improving monetization strategies, free-to-paid conversion, and revenue growth. |
-| Completed | FastKitchen Customer Analysis | Food & Beverage | Consolidated registered and guest customer data using SQL outer joins to develop a comprehensive view of FastKitchen’s customer base and inform customer insights. |
-| Completed | NBA Performance Analysis | Professional Sports | Examined NBA team performance, scoring trends, and evolving playing styles across 17 seasons to identify drivers of team success and inform coaching strategies. |
-| Completed | [London Transit Analysis](./London-Transit-Analysis) | Transportation (Public Sector) | Analyzed London public transit ridership patterns, peak travel times, and line usage to inform service scheduling, resource allocation, and infrastructure planning. |
-| Completed | [Startup Investment Analysis](./Crunchbase-Startup-Investment-Analysis-Project) | B2B DaaS | Assessed capital allocation and closure rates in venture-backed companies, analyzed high-loss sectors to assess risk vs. ROI profile. |
-| Completed | [YouTube Trending Analysis](./youtube-trending-analysis) | Digital Media & Entertainment | Evaluated audience engagement patterns and identifying distribution drop-offs across top performance. |
+| Completed |  [Sustainability Impact Analysis(./Intel-Sustainability-Impact-Analysis] | Technology | Evaluating the environmental return on investment (ROI) of Intel's hardware repurposing program across three primary dimensions |
 | Completed | [Digital Music Store Analysis](./SQL-Digital-Music-Store-Project) | E-Commerce | Analyzed sales transactions, customer purchasing behavior, and global music genre demand to identify opportunities for inventory optimization and geographically targeted marketing strategies. |
 
 ---
